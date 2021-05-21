@@ -20,6 +20,10 @@ namespace Dommyforgit
 				Console.WriteLine("eat samosa");
 				Console.WriteLine("eat pizza");
 				Console.WriteLine("Burger");
+				Console.WriteLine("est dal bhaht tarkari");
+				Console.WriteLine("eat Roti");
+				Console.WriteLine("masu bhat");
+				
 			
 
 			}
@@ -27,6 +31,7 @@ namespace Dommyforgit
 			else
 			{
 				Console.WriteLine("Do yours  homework");
+				Console.WriteLine("sleep and   sleep");
 			}
 
 		}
