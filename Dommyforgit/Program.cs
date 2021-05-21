@@ -27,6 +27,8 @@ namespace Dommyforgit
 			else
 			{
 				Console.WriteLine("Do yours  homework");
+				Console.WriteLine("hero");
+
 			}
 
 		}
